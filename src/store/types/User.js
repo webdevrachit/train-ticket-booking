@@ -1,0 +1,4 @@
+export default {
+	SETACCOUNT:'SETACCOUNT',
+	LOGOUT:'LOGOUT',
+}
